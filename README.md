@@ -12,7 +12,7 @@ related to martingales. The project explores Radon-Nikodym derivatives and the R
 Nikodym theorem, which is used later for purpose of pricing derivatives in the latter part of the
 project.
 
-\\
+\
 In the second part of the project, terms and concepts of mathematical finance are introduced.
 Concepts such as arbitrage are discussed in detail. The project then looks at Risk-Neutral
 Measures and how it relates to our study of martingale measure. We look at several market
